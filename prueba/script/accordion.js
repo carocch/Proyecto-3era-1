@@ -2,17 +2,18 @@ console.log("Acordion cargado");
 
 const dataAccordion = [
     {
-        "title": "Carreras universitarias",
-        "desc": "Nos enfocamos en las 4 carreras mas importantes del pais."
-
+        "title": "Eventos",
+       
+        "desc": "Participamos en los eventos de tiro Con arco mas importantes del pais. Las fechas son anunciadas en nuestras redes sociales"
+        
     },
     {
-        "title": "Carreras universitarias",
-        "desc": "Nos enfocamos en las 4 carreras mas importantes del pais."
+        "title": "Premiaciones",
+        "desc": "Somos medallistas nacionales e internacionales. Además tenemos ranking interno"
     },
     {
-        "title": "Carreras universitarias",
-        "desc": "Nos enfocamos en las 4 carreras mas importantes del pais."
+        "title": "Contáctenos",
+        "desc": "Con gusto le atenderemos y evacuaremos cualquier duda tel: 8316-7985/8847-1774."
 
     },
 
@@ -72,4 +73,3 @@ const dataAccordion = [
     ACCORDION.init()
 
 })();
-

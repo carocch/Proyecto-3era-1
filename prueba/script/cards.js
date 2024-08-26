@@ -2,25 +2,25 @@ console.log("cards cargado");
 
 const dataCards = [
     {
-        "tittle": "Ingenieria Industrial",
-        "url_image": "./Images/ingenieria-industrial.png",
-        "desc": "Optimiza procesos, sistemas u organizaciones complejos mediante el desarrollo, la mejora y la implementación de sistemas integrados de personas (recursos humanos), riqueza, conocimiento, información y equipamiento, energía, materiales y procesos.",
+        "tittle": "Compañerismo",
+        "url_image": "./Images/camisetas.jpg",
+        "desc": "En nuestro club de tiro con arco, el compañerismo es fundamental. Valoramos el apoyo mutuo y la camaradería entre nuestros miembros. Desde los principiantes hasta los arqueros más experimentados, todos trabajamos juntos para mejorar y disfrutar del deporte. Fomentamos un ambiente en el que cada logro es celebrado en equipo, y cada desafío es una oportunidad para crecer juntos.",
         "cta": "Mostrar mas...",
-        "link": "./ingenieria-industrial.php"
+        "link": "https://www.facebook.com/Asticaoficial/about?locale=es_LA&_rdr"
     },
     {
-        "tittle": "Ingenieria en Sistemas",
-        "url_image": "./Images/ingenieria-sistemas.png",
-        "desc": "Revisa minuciosamente los datos para la creación de programas, aplicativos y herramientas que faciliten los procesos empresariales en un entorno de información segura y protegida.",
+        "tittle": "Técnica",
+        "url_image": "./Images/linea de tiro llena.jpg",
+        "desc": "Nuestros instructores estan certificados con las normativas de World Archery y las técnicas mas actuales a nivel mundial.",
         "cta": "Mostrar mas...",
-        "link": "./ingenieria-sistemas.php"
+        "link": "https://www.worldarchery.sport/rankings/world-ranking?category=Compound%20Men&country=Costa%20Rica"
     },
     {
-        "tittle": "Administracion",
-        "url_image": "./Images/administracion.png",
-        "desc": "Asegura el funcionamiento óptimo de cada elemento dentro de la organización, promoviendo el uso eficiente de los recursos aplicándolos para la obtención de las rentabilidades propuestas.",
+        "tittle": "torneos",
+        "url_image": "./Images/Trofeos Astica.jpg",
+        "desc": "Nuestro club paricipa activamente en los torneos nacionales, entrenamos utilizando las tecnologias de IANSEO para mediciones y ranking",
         "cta": "Mostrar mas...",
-        "link": "./administracion.php"
+        "link": "https://www.ianseo.net/Details.php?toId=17822"
     }
 ];
 
