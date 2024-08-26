@@ -27,9 +27,9 @@
             <a class="enlaces-menu-derecha" href="https://www.facebook.com/Asticaoficial/about?locale=es_LA">Redes Sociales</a>
         </div>
         <div class="hamburger-icon">
+            
             <span></span>
-            <span></span>
-            <span></span>
+            
 
         </div>
 
